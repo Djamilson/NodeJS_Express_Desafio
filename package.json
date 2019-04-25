@@ -1,0 +1,8 @@
+{
+  "name": "NodeJS_Express_Desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Djamilson/NodeJS_Express_Desafio.git",
+  "author": "Djamilson <djamilson@gmail.com>",
+  "license": "MIT"
+}
